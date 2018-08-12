@@ -7,7 +7,7 @@
     实测1.9G的psd清理过后为47M。
 
 ### 使用说明
-
-* 下载压缩包：https://github.com/julysohu/photoshop_deep_cleaner/archive/master.zip
+* 下载压缩包：https://github.com/kuozhen/photoshop_deep_cleaner/archive/master.zip
+* 源地址：https://github.com/julysohu/
 * 在Photoshop中打开psd文件，菜单栏选择 文件 --> 脚本 --> 浏览；
 * 选择压缩包中的 PsDeepCleaner.jsx；
